@@ -1,5 +1,44 @@
-# Vue 3 + Vite
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+# Weather App
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+A weather web app made using Vue.js and tailwindcss.
+
+
+# weatherapi.com
+
+The Weather API provides accurate and up-to-date weather information for various locations around the world. It allows developers to integrate weather data into their applications with ease.
+
+## Features
+
+- Local current weather
+- 7-day weather forecasst
+- Current weather highlights 
+- Ability to search for cities around the world and get weather data about it
+
+
+## Run Locally
+
+Install the project by cloning the repository:
+
+```bash
+  git clone https://github.com/SillyFizy/weather-app.git
+```
+
+Go to the project directory
+
+```bash
+  cd weather-app
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run dev
+```
+
